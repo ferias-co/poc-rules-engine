@@ -1,2 +1,2 @@
-# rules-engine-with-specflow
+# rules-engine
 Prova de Conceito de specflow como Rule Engine
